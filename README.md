@@ -1,7 +1,7 @@
 # Celestial-Database
 My solution to the ["Celestial Database" challenge from freeCodeCamp](https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database)
 
-This PostgreSQL database fulfills all these requirements:
+This PostgreSQL database fulfills all these taks/requirements:
 * You should create a database named universe
 *	You should add tables named galaxy, star, planet, and moon
 *	Each table should have a primary key
